@@ -2,7 +2,7 @@
 This repositry is for AI beginers to learn VAE(Variational Autoencoder) model from code scratch.
 
 Currently, the AI models are becoming more and more complicated, and cost more and more computing resourse. It is getting harder for AI beginer to learn. I would like to implement the foundation models from minimal requirements.
-My GPU is **NVIDIA GeForce RTX 2070**, which has 8Gb GPU Memory. I try to implement the models based on this minimal GPU requirements.
+My GPU is *NVIDIA GeForce RTX 2070*, which has *8Gb* GPU Memory. I try to implement the models based on this minimal GPU requirements.
 
 # Results
 Here are the results generated of this model.
@@ -20,7 +20,7 @@ Here are the results generated of this model.
 
 
 # References
-Firstly, I would like to recommend to read the following articles to understand what Diffusion model is.
+Firstly, I would like to recommend to read the following articles to understand what *Variational Autoencoder*(VAE) is.
 
 - [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
 
@@ -58,4 +58,4 @@ HUGGINGFACE_TOKEN=write_token_to_upload
 
     It will download the model previously uploaded from huggingface hub and make inference.
 
-    My trained models is in [Here](https://huggingface.co/RickDYang/ai-mini/blob/main/mnist_diffusion)
+    My trained models is in [Here](https://huggingface.co/RickDYang/ai-mini/blob/main/mnist_vae)
